@@ -1,0 +1,17 @@
+{
+  "name": "bbmutils",
+  "version": "1.0.0",
+  "description": "A C89 library designed to handle vector and matrix algebra and 2x2 eigenvalue problems for symmetric matrices",
+  "homepage": "https://github.com/physycom/libbbmutils",
+  "license": "GPL-3.0",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

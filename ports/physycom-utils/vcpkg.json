@@ -1,0 +1,20 @@
+{
+  "name": "physycom-utils",
+  "version": "1.0.0",
+  "description": "A collection of ready to use, very fast and easy to learn template libraries.",
+  "homepage": "https://github.com/physycom/utils",
+  "license": "BSL-1.0",
+  "dependencies": [
+    "boost-algorithm",
+    "boost-polygon",
+    "catch",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

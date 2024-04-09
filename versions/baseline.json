@@ -3,6 +3,10 @@
     "bbmutils": {
       "baseline": "1.0.0",
       "port-version": 0
+    },
+    "physycom-utils": {
+      "baseline": "1.0.0",
+      "port-version": 0
     }
   }
 }

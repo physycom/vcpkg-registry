@@ -1,0 +1,17 @@
+{
+  "name": "libgeohash",
+  "version": "1.0.0",
+  "description": "A pure C implementation of the Geohash algorithm",
+  "homepage": "https://github.com/physycom/libgeohash",
+  "license": "BSD-3-Clause",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
